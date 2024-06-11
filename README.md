@@ -17,8 +17,9 @@
 
 <p>This project serves as a robust foundation for creating a professional and engaging online presence for any restaurant.</p>
 
+<p>Explore our delicious menu, meet our team, read reviews, and stay updated with our latest blog posts. Visit us now!</p>
 <pre>
-    <p>Explore our delicious menu, meet our team, read reviews, and stay updated with our latest blog posts. Visit us now!</p>
+    Click on the below link to view my website
     <a href = "https://deekshit14.github.io/Restaurant-Bootstrap/">Visit my website</a>
 </pre>
 </div>
